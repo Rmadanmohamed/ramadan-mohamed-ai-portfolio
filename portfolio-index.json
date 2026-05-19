@@ -1,0 +1,307 @@
+[
+  {
+    "repo": "brain-tumor-mri-ai-system",
+    "title": "Brain Tumor MRI AI System",
+    "category": "Medical-AI-Projects",
+    "path": "C:\\Users\\alasala\\Documents\\Codex\\2026-05-19\\you-are-a-senior-github-portfolio\\GitHub_Portfolio_Ready\\Medical-AI-Projects\\brain-tumor-mri-ai-system",
+    "topics": [
+      "medical-ai",
+      "deep-learning",
+      "computer-vision",
+      "tensorflow",
+      "keras",
+      "pytorch",
+      "fastapi"
+    ],
+    "description": "A medical computer vision project for brain tumor MRI classification, API inference, segmentation experiments, and simple UI prototypes."
+  },
+  {
+    "repo": "medscan-ai-medical-diagnosis-platform",
+    "title": "MedScan AI Medical Diagnosis Platform",
+    "category": "Medical-AI-Projects",
+    "path": "C:\\Users\\alasala\\Documents\\Codex\\2026-05-19\\you-are-a-senior-github-portfolio\\GitHub_Portfolio_Ready\\Medical-AI-Projects\\medscan-ai-medical-diagnosis-platform",
+    "topics": [
+      "medical-ai",
+      "streamlit",
+      "tensorflow",
+      "opencv",
+      "healthcare"
+    ],
+    "description": "A Streamlit-based medical AI prototype with modules for medical image analysis, retinal analysis, and disease-risk prediction."
+  },
+  {
+    "repo": "breast-cancer-classification-ml",
+    "title": "Breast Cancer Classification ML",
+    "category": "Medical-AI-Projects",
+    "path": "C:\\Users\\alasala\\Documents\\Codex\\2026-05-19\\you-are-a-senior-github-portfolio\\GitHub_Portfolio_Ready\\Medical-AI-Projects\\breast-cancer-classification-ml",
+    "topics": [
+      "machine-learning",
+      "medical-ai",
+      "classification",
+      "scikit-learn",
+      "xgboost"
+    ],
+    "description": "A supervised machine learning notebook that explores breast cancer data, preprocesses features, trains multiple classifiers, and evaluates classification quality."
+  },
+  {
+    "repo": "diabetes-prediction-ml",
+    "title": "Diabetes Prediction Machine Learning",
+    "category": "Medical-AI-Projects",
+    "path": "C:\\Users\\alasala\\Documents\\Codex\\2026-05-19\\you-are-a-senior-github-portfolio\\GitHub_Portfolio_Ready\\Medical-AI-Projects\\diabetes-prediction-ml",
+    "topics": [
+      "machine-learning",
+      "medical-ai",
+      "classification",
+      "scikit-learn",
+      "lightgbm"
+    ],
+    "description": "A set of notebooks for diabetes outcome prediction using classical ML models and model comparison workflows."
+  },
+  {
+    "repo": "obesity-risk-prediction-ml",
+    "title": "Obesity Risk Prediction ML",
+    "category": "Medical-AI-Projects",
+    "path": "C:\\Users\\alasala\\Documents\\Codex\\2026-05-19\\you-are-a-senior-github-portfolio\\GitHub_Portfolio_Ready\\Medical-AI-Projects\\obesity-risk-prediction-ml",
+    "topics": [
+      "machine-learning",
+      "healthcare",
+      "classification",
+      "scikit-learn"
+    ],
+    "description": "A machine learning notebook for obesity classification using train/test CSV files and multiple classical models."
+  },
+  {
+    "repo": "agrinova-smart-agriculture-dashboard",
+    "title": "AgriNova Smart Agriculture Dashboard",
+    "category": "Agriculture-AI-Projects",
+    "path": "C:\\Users\\alasala\\Documents\\Codex\\2026-05-19\\you-are-a-senior-github-portfolio\\GitHub_Portfolio_Ready\\Agriculture-AI-Projects\\agrinova-smart-agriculture-dashboard",
+    "topics": [
+      "agriculture",
+      "nextjs",
+      "react",
+      "typescript",
+      "powerbi",
+      "dashboard",
+      "iot"
+    ],
+    "description": "A full smart-agriculture dashboard workspace combining a Next.js dashboard, API routes, Power BI assets, and Power BI-ready CSV data."
+  },
+  {
+    "repo": "smart-agriculture-ml-suite",
+    "title": "Smart Agriculture ML Suite",
+    "category": "Agriculture-AI-Projects",
+    "path": "C:\\Users\\alasala\\Documents\\Codex\\2026-05-19\\you-are-a-senior-github-portfolio\\GitHub_Portfolio_Ready\\Agriculture-AI-Projects\\smart-agriculture-ml-suite",
+    "topics": [
+      "agriculture",
+      "machine-learning",
+      "deep-learning",
+      "computer-vision",
+      "xai",
+      "crop-recommendation"
+    ],
+    "description": "A graduation-project notebook suite for crop recommendation, crop yield prediction, soil nutrient analysis, XAI, and plant disease classification."
+  },
+  {
+    "repo": "molecular-property-prediction-gnn",
+    "title": "Molecular Property Prediction with Graph Neural Networks",
+    "category": "AI-ML-Projects",
+    "path": "C:\\Users\\alasala\\Documents\\Codex\\2026-05-19\\you-are-a-senior-github-portfolio\\GitHub_Portfolio_Ready\\AI-ML-Projects\\molecular-property-prediction-gnn",
+    "topics": [
+      "gnn",
+      "molecular-property-prediction",
+      "pytorch",
+      "chemistry",
+      "qm9"
+    ],
+    "description": "A graph neural network project for predicting molecular HOMO-LUMO gap values using QM9-style molecular graph data."
+  },
+  {
+    "repo": "exoplanet-detection-ml",
+    "title": "Exoplanet Detection Machine Learning",
+    "category": "AI-ML-Projects",
+    "path": "C:\\Users\\alasala\\Documents\\Codex\\2026-05-19\\you-are-a-senior-github-portfolio\\GitHub_Portfolio_Ready\\AI-ML-Projects\\exoplanet-detection-ml",
+    "topics": [
+      "machine-learning",
+      "astronomy",
+      "exoplanet",
+      "tensorflow",
+      "lightgbm",
+      "gradio"
+    ],
+    "description": "A machine learning project for detecting exoplanets from light-curve data, plus a Gradio light-curve viewer prototype."
+  },
+  {
+    "repo": "baby-food-ingredient-recommendation-ml",
+    "title": "Baby Food Ingredient Recommendation ML",
+    "category": "AI-ML-Projects",
+    "path": "C:\\Users\\alasala\\Documents\\Codex\\2026-05-19\\you-are-a-senior-github-portfolio\\GitHub_Portfolio_Ready\\AI-ML-Projects\\baby-food-ingredient-recommendation-ml",
+    "topics": [
+      "recommendation-system",
+      "machine-learning",
+      "tabnet",
+      "pytorch",
+      "nutrition"
+    ],
+    "description": "A recommendation and classification notebook suite for baby food ingredient data using feature selection, classical ML, and tabular deep learning."
+  },
+  {
+    "repo": "retail-item-recommendation-system",
+    "title": "Retail Item Recommendation System",
+    "category": "AI-ML-Projects",
+    "path": "C:\\Users\\alasala\\Documents\\Codex\\2026-05-19\\you-are-a-senior-github-portfolio\\GitHub_Portfolio_Ready\\AI-ML-Projects\\retail-item-recommendation-system",
+    "topics": [
+      "recommendation-system",
+      "collaborative-filtering",
+      "machine-learning",
+      "python"
+    ],
+    "description": "A recommender-system notebook using transactional retail data, user-item matrices, cosine similarity, and recommendation evaluation."
+  },
+  {
+    "repo": "information-retrieval-recommender-systems",
+    "title": "Information Retrieval and Recommender Systems",
+    "category": "AI-ML-Projects",
+    "path": "C:\\Users\\alasala\\Documents\\Codex\\2026-05-19\\you-are-a-senior-github-portfolio\\GitHub_Portfolio_Ready\\AI-ML-Projects\\information-retrieval-recommender-systems",
+    "topics": [
+      "information-retrieval",
+      "recommendation-system",
+      "machine-learning",
+      "python"
+    ],
+    "description": "A group of information retrieval and recommender-system assignments covering user-item matrices, ranking metrics, and classification examples."
+  },
+  {
+    "repo": "knowledge-based-weather-recommendation-system",
+    "title": "Knowledge Based Weather Recommendation System",
+    "category": "AI-ML-Projects",
+    "path": "C:\\Users\\alasala\\Documents\\Codex\\2026-05-19\\you-are-a-senior-github-portfolio\\GitHub_Portfolio_Ready\\AI-ML-Projects\\knowledge-based-weather-recommendation-system",
+    "topics": [
+      "knowledge-based-system",
+      "machine-learning",
+      "gradio",
+      "weather-data"
+    ],
+    "description": "A knowledge-based system notebook combining weather/country datasets, graph-like knowledge representation, Gradio, and ML classification."
+  },
+  {
+    "repo": "quantum-machine-learning-experiments",
+    "title": "Quantum Machine Learning Experiments",
+    "category": "AI-ML-Projects",
+    "path": "C:\\Users\\alasala\\Documents\\Codex\\2026-05-19\\you-are-a-senior-github-portfolio\\GitHub_Portfolio_Ready\\AI-ML-Projects\\quantum-machine-learning-experiments",
+    "topics": [
+      "quantum-machine-learning",
+      "qiskit",
+      "qnn",
+      "qcnn",
+      "svm"
+    ],
+    "description": "A set of quantum machine learning notebooks covering quantum kernels, QNN architecture, and quantum convolutional neural networks."
+  },
+  {
+    "repo": "backpack-price-prediction-ml",
+    "title": "Backpack Price Prediction ML",
+    "category": "Data-Science-Projects",
+    "path": "C:\\Users\\alasala\\Documents\\Codex\\2026-05-19\\you-are-a-senior-github-portfolio\\GitHub_Portfolio_Ready\\Data-Science-Projects\\backpack-price-prediction-ml",
+    "topics": [
+      "data-science",
+      "regression",
+      "machine-learning",
+      "pricing"
+    ],
+    "description": "A regression notebook for backpack price prediction using tabular product data and classical machine learning models."
+  },
+  {
+    "repo": "student-performance-analysis",
+    "title": "Student Performance Analysis",
+    "category": "Data-Science-Projects",
+    "path": "C:\\Users\\alasala\\Documents\\Codex\\2026-05-19\\you-are-a-senior-github-portfolio\\GitHub_Portfolio_Ready\\Data-Science-Projects\\student-performance-analysis",
+    "topics": [
+      "data-science",
+      "education",
+      "eda",
+      "clustering",
+      "kmeans"
+    ],
+    "description": "A data science project for analyzing student exam performance and clustering patterns with K-Means."
+  },
+  {
+    "repo": "titanic-survival-prediction-ml",
+    "title": "Titanic Survival Prediction ML",
+    "category": "Data-Science-Projects",
+    "path": "C:\\Users\\alasala\\Documents\\Codex\\2026-05-19\\you-are-a-senior-github-portfolio\\GitHub_Portfolio_Ready\\Data-Science-Projects\\titanic-survival-prediction-ml",
+    "topics": [
+      "data-science",
+      "classification",
+      "kaggle",
+      "scikit-learn"
+    ],
+    "description": "A classic Titanic survival prediction notebook with preprocessing, model training, and accuracy evaluation."
+  },
+  {
+    "repo": "agglomerative-clustering-analysis",
+    "title": "Agglomerative Clustering Analysis",
+    "category": "Data-Science-Projects",
+    "path": "C:\\Users\\alasala\\Documents\\Codex\\2026-05-19\\you-are-a-senior-github-portfolio\\GitHub_Portfolio_Ready\\Data-Science-Projects\\agglomerative-clustering-analysis",
+    "topics": [
+      "data-science",
+      "clustering",
+      "scikit-learn",
+      "hierarchical-clustering"
+    ],
+    "description": "A clustering notebook using hierarchical clustering, dendrogram visualization, imputation, label encoding, and feature scaling."
+  },
+  {
+    "repo": "hybrid-optimization-algorithms",
+    "title": "Hybrid Optimization Algorithms",
+    "category": "Optimization-Algorithms",
+    "path": "C:\\Users\\alasala\\Documents\\Codex\\2026-05-19\\you-are-a-senior-github-portfolio\\GitHub_Portfolio_Ready\\Optimization-Algorithms\\hybrid-optimization-algorithms",
+    "topics": [
+      "optimization",
+      "metaheuristics",
+      "genetic-algorithm",
+      "particle-swarm-optimization",
+      "python"
+    ],
+    "description": "An optimization research/code project combining Hippopotamus Optimization, Secretary Bird Optimization, hierarchical hybrid methods, GA, PSO, and path optimization notebooks."
+  },
+  {
+    "repo": "ai-learning-website",
+    "title": "AI Learning Website",
+    "category": "Full-Stack-Web-Projects",
+    "path": "C:\\Users\\alasala\\Documents\\Codex\\2026-05-19\\you-are-a-senior-github-portfolio\\GitHub_Portfolio_Ready\\Full-Stack-Web-Projects\\ai-learning-website",
+    "topics": [
+      "web",
+      "html",
+      "css",
+      "javascript",
+      "ai-education"
+    ],
+    "description": "A static educational website covering AI models, machine learning, and deep learning topics."
+  },
+  {
+    "repo": "finlit-egypt-financial-literacy-platform",
+    "title": "FinLit Egypt Financial Literacy Platform",
+    "category": "Finance-Projects",
+    "path": "C:\\Users\\alasala\\Documents\\Codex\\2026-05-19\\you-are-a-senior-github-portfolio\\GitHub_Portfolio_Ready\\Finance-Projects\\finlit-egypt-financial-literacy-platform",
+    "topics": [
+      "finance",
+      "financial-literacy",
+      "nodejs",
+      "express",
+      "javascript"
+    ],
+    "description": "A financial literacy platform with calculators, educational resources, user account flows, charts, and an Express server."
+  },
+  {
+    "repo": "robotics-research-paper",
+    "title": "Robotics Research Paper",
+    "category": "Research-Projects",
+    "path": "C:\\Users\\alasala\\Documents\\Codex\\2026-05-19\\you-are-a-senior-github-portfolio\\GitHub_Portfolio_Ready\\Research-Projects\\robotics-research-paper",
+    "topics": [
+      "robotics",
+      "research",
+      "paper"
+    ],
+    "description": "A research document archive containing a robotics paper draft."
+  }
+]
