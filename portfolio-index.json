@@ -13,7 +13,8 @@
       "pytorch",
       "fastapi"
     ],
-    "description": "A medical computer vision project for brain tumor MRI classification, API inference, segmentation experiments, and simple UI prototypes."
+    "description": "A medical computer vision project for brain tumor MRI classification, API inference, segmentation experiments, and simple UI prototypes.",
+    "html_url": "https://github.com/Rmadanmohamed/brain-tumor-mri-ai-system"
   },
   {
     "repo": "medscan-ai-medical-diagnosis-platform",
@@ -27,7 +28,8 @@
       "opencv",
       "healthcare"
     ],
-    "description": "A Streamlit-based medical AI prototype with modules for medical image analysis, retinal analysis, and disease-risk prediction."
+    "description": "A Streamlit-based medical AI prototype with modules for medical image analysis, retinal analysis, and disease-risk prediction.",
+    "html_url": "https://github.com/Rmadanmohamed/medscan-ai-medical-diagnosis-platform"
   },
   {
     "repo": "breast-cancer-classification-ml",
@@ -41,7 +43,8 @@
       "scikit-learn",
       "xgboost"
     ],
-    "description": "A supervised machine learning notebook that explores breast cancer data, preprocesses features, trains multiple classifiers, and evaluates classification quality."
+    "description": "A supervised machine learning notebook that explores breast cancer data, preprocesses features, trains multiple classifiers, and evaluates classification quality.",
+    "html_url": "https://github.com/Rmadanmohamed/breast-cancer-classification-ml"
   },
   {
     "repo": "diabetes-prediction-ml",
@@ -55,7 +58,8 @@
       "scikit-learn",
       "lightgbm"
     ],
-    "description": "A set of notebooks for diabetes outcome prediction using classical ML models and model comparison workflows."
+    "description": "A set of notebooks for diabetes outcome prediction using classical ML models and model comparison workflows.",
+    "html_url": "https://github.com/Rmadanmohamed/diabetes-prediction-ml"
   },
   {
     "repo": "obesity-risk-prediction-ml",
@@ -68,7 +72,8 @@
       "classification",
       "scikit-learn"
     ],
-    "description": "A machine learning notebook for obesity classification using train/test CSV files and multiple classical models."
+    "description": "A machine learning notebook for obesity classification using train/test CSV files and multiple classical models.",
+    "html_url": "https://github.com/Rmadanmohamed/obesity-risk-prediction-ml"
   },
   {
     "repo": "agrinova-smart-agriculture-dashboard",
@@ -84,7 +89,8 @@
       "dashboard",
       "iot"
     ],
-    "description": "A full smart-agriculture dashboard workspace combining a Next.js dashboard, API routes, Power BI assets, and Power BI-ready CSV data."
+    "description": "A full smart-agriculture dashboard workspace combining a Next.js dashboard, API routes, Power BI assets, and Power BI-ready CSV data.",
+    "html_url": "https://github.com/Rmadanmohamed/agrinova-smart-agriculture-dashboard"
   },
   {
     "repo": "smart-agriculture-ml-suite",
@@ -99,7 +105,8 @@
       "xai",
       "crop-recommendation"
     ],
-    "description": "A graduation-project notebook suite for crop recommendation, crop yield prediction, soil nutrient analysis, XAI, and plant disease classification."
+    "description": "A graduation-project notebook suite for crop recommendation, crop yield prediction, soil nutrient analysis, XAI, and plant disease classification.",
+    "html_url": "https://github.com/Rmadanmohamed/smart-agriculture-ml-suite"
   },
   {
     "repo": "molecular-property-prediction-gnn",
@@ -113,7 +120,8 @@
       "chemistry",
       "qm9"
     ],
-    "description": "A graph neural network project for predicting molecular HOMO-LUMO gap values using QM9-style molecular graph data."
+    "description": "A graph neural network project for predicting molecular HOMO-LUMO gap values using QM9-style molecular graph data.",
+    "html_url": "https://github.com/Rmadanmohamed/molecular-property-prediction-gnn"
   },
   {
     "repo": "exoplanet-detection-ml",
@@ -128,7 +136,8 @@
       "lightgbm",
       "gradio"
     ],
-    "description": "A machine learning project for detecting exoplanets from light-curve data, plus a Gradio light-curve viewer prototype."
+    "description": "A machine learning project for detecting exoplanets from light-curve data, plus a Gradio light-curve viewer prototype.",
+    "html_url": "https://github.com/Rmadanmohamed/exoplanet-detection-ml"
   },
   {
     "repo": "baby-food-ingredient-recommendation-ml",
@@ -142,7 +151,8 @@
       "pytorch",
       "nutrition"
     ],
-    "description": "A recommendation and classification notebook suite for baby food ingredient data using feature selection, classical ML, and tabular deep learning."
+    "description": "A recommendation and classification notebook suite for baby food ingredient data using feature selection, classical ML, and tabular deep learning.",
+    "html_url": "https://github.com/Rmadanmohamed/baby-food-ingredient-recommendation-ml"
   },
   {
     "repo": "retail-item-recommendation-system",
@@ -155,7 +165,8 @@
       "machine-learning",
       "python"
     ],
-    "description": "A recommender-system notebook using transactional retail data, user-item matrices, cosine similarity, and recommendation evaluation."
+    "description": "A recommender-system notebook using transactional retail data, user-item matrices, cosine similarity, and recommendation evaluation.",
+    "html_url": "https://github.com/Rmadanmohamed/retail-item-recommendation-system"
   },
   {
     "repo": "information-retrieval-recommender-systems",
@@ -168,7 +179,8 @@
       "machine-learning",
       "python"
     ],
-    "description": "A group of information retrieval and recommender-system assignments covering user-item matrices, ranking metrics, and classification examples."
+    "description": "A group of information retrieval and recommender-system assignments covering user-item matrices, ranking metrics, and classification examples.",
+    "html_url": "https://github.com/Rmadanmohamed/information-retrieval-recommender-systems"
   },
   {
     "repo": "knowledge-based-weather-recommendation-system",
@@ -181,7 +193,8 @@
       "gradio",
       "weather-data"
     ],
-    "description": "A knowledge-based system notebook combining weather/country datasets, graph-like knowledge representation, Gradio, and ML classification."
+    "description": "A knowledge-based system notebook combining weather/country datasets, graph-like knowledge representation, Gradio, and ML classification.",
+    "html_url": "https://github.com/Rmadanmohamed/knowledge-based-weather-recommendation-system"
   },
   {
     "repo": "quantum-machine-learning-experiments",
@@ -195,7 +208,8 @@
       "qcnn",
       "svm"
     ],
-    "description": "A set of quantum machine learning notebooks covering quantum kernels, QNN architecture, and quantum convolutional neural networks."
+    "description": "A set of quantum machine learning notebooks covering quantum kernels, QNN architecture, and quantum convolutional neural networks.",
+    "html_url": "https://github.com/Rmadanmohamed/quantum-machine-learning-experiments"
   },
   {
     "repo": "backpack-price-prediction-ml",
@@ -208,7 +222,8 @@
       "machine-learning",
       "pricing"
     ],
-    "description": "A regression notebook for backpack price prediction using tabular product data and classical machine learning models."
+    "description": "A regression notebook for backpack price prediction using tabular product data and classical machine learning models.",
+    "html_url": "https://github.com/Rmadanmohamed/backpack-price-prediction-ml"
   },
   {
     "repo": "student-performance-analysis",
@@ -222,7 +237,8 @@
       "clustering",
       "kmeans"
     ],
-    "description": "A data science project for analyzing student exam performance and clustering patterns with K-Means."
+    "description": "A data science project for analyzing student exam performance and clustering patterns with K-Means.",
+    "html_url": "https://github.com/Rmadanmohamed/student-performance-analysis"
   },
   {
     "repo": "titanic-survival-prediction-ml",
@@ -235,7 +251,8 @@
       "kaggle",
       "scikit-learn"
     ],
-    "description": "A classic Titanic survival prediction notebook with preprocessing, model training, and accuracy evaluation."
+    "description": "A classic Titanic survival prediction notebook with preprocessing, model training, and accuracy evaluation.",
+    "html_url": "https://github.com/Rmadanmohamed/titanic-survival-prediction-ml"
   },
   {
     "repo": "agglomerative-clustering-analysis",
@@ -248,7 +265,8 @@
       "scikit-learn",
       "hierarchical-clustering"
     ],
-    "description": "A clustering notebook using hierarchical clustering, dendrogram visualization, imputation, label encoding, and feature scaling."
+    "description": "A clustering notebook using hierarchical clustering, dendrogram visualization, imputation, label encoding, and feature scaling.",
+    "html_url": "https://github.com/Rmadanmohamed/agglomerative-clustering-analysis"
   },
   {
     "repo": "hybrid-optimization-algorithms",
@@ -262,7 +280,8 @@
       "particle-swarm-optimization",
       "python"
     ],
-    "description": "An optimization research/code project combining Hippopotamus Optimization, Secretary Bird Optimization, hierarchical hybrid methods, GA, PSO, and path optimization notebooks."
+    "description": "An optimization research/code project combining Hippopotamus Optimization, Secretary Bird Optimization, hierarchical hybrid methods, GA, PSO, and path optimization notebooks.",
+    "html_url": "https://github.com/Rmadanmohamed/hybrid-optimization-algorithms"
   },
   {
     "repo": "ai-learning-website",
@@ -276,7 +295,8 @@
       "javascript",
       "ai-education"
     ],
-    "description": "A static educational website covering AI models, machine learning, and deep learning topics."
+    "description": "A static educational website covering AI models, machine learning, and deep learning topics.",
+    "html_url": "https://github.com/Rmadanmohamed/ai-learning-website"
   },
   {
     "repo": "finlit-egypt-financial-literacy-platform",
@@ -290,7 +310,8 @@
       "express",
       "javascript"
     ],
-    "description": "A financial literacy platform with calculators, educational resources, user account flows, charts, and an Express server."
+    "description": "A financial literacy platform with calculators, educational resources, user account flows, charts, and an Express server.",
+    "html_url": "https://github.com/Rmadanmohamed/finlit-egypt-financial-literacy-platform"
   },
   {
     "repo": "robotics-research-paper",
@@ -302,6 +323,7 @@
       "research",
       "paper"
     ],
-    "description": "A research document archive containing a robotics paper draft."
+    "description": "A research document archive containing a robotics paper draft.",
+    "html_url": "https://github.com/Rmadanmohamed/robotics-research-paper"
   }
 ]
