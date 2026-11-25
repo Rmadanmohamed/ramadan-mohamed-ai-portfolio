@@ -1,3 +1,11 @@
+<div align="center">
+
+![Ramadan Mohamed Hassan — AI Engineer](assets/profile-banner.svg)
+
+![Python](https://img.shields.io/badge/Python-2563EB?style=for-the-badge) ![PyTorch](https://img.shields.io/badge/PyTorch-2563EB?style=for-the-badge) ![FastAPI](https://img.shields.io/badge/FastAPI-2563EB?style=for-the-badge) ![n8n](https://img.shields.io/badge/n8n-2563EB?style=for-the-badge) ![LangChain](https://img.shields.io/badge/LangChain-2563EB?style=for-the-badge)
+
+</div>
+
 # Ramadan Mohamed Hassan
 
 **AI Engineer | AI Automation | LLM & RAG Systems | Machine Learning**
