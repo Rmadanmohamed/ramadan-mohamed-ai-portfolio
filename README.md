@@ -1,78 +1,63 @@
-# Ramadan Mohamed Hassan - AI Portfolio
+# Ramadan Mohamed Hassan
 
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](#) [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)](#) [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)](#) [![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=white)](#) [![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)](#) [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)](#)
+**AI Engineer | AI Automation | LLM & RAG Systems | Machine Learning**
 
-A curated portfolio of AI, machine learning, data science, full-stack, finance, agriculture, medical AI, optimization, and research projects.
+I build AI-enabled services and automation workflows, with interests spanning retrieval-augmented generation, computer vision, data pipelines, robotics, and applied research. This repository is a curated entry point to my work; project maturity and reproducibility vary by repository.
 
-## Highlighted Projects
-- [AgriNova Smart Agriculture Dashboard](https://github.com/Rmadanmohamed/agrinova-smart-agriculture-dashboard) - A full smart-agriculture dashboard workspace combining a Next.js dashboard, API routes, Power BI assets, and Power BI-ready CSV data.
-- [Brain Tumor MRI AI System](https://github.com/Rmadanmohamed/brain-tumor-mri-ai-system) - A medical computer vision project for brain tumor MRI classification, API inference, segmentation experiments, and simple UI prototypes.
-- [Smart Agriculture ML Suite](https://github.com/Rmadanmohamed/smart-agriculture-ml-suite) - A graduation-project notebook suite for crop recommendation, crop yield prediction, soil nutrient analysis, XAI, and plant disease classification.
-- [Molecular Property Prediction with Graph Neural Networks](https://github.com/Rmadanmohamed/molecular-property-prediction-gnn) - A graph neural network project for predicting molecular HOMO-LUMO gap values using QM9-style molecular graph data.
-- [FinLit Egypt Financial Literacy Platform](https://github.com/Rmadanmohamed/finlit-egypt-financial-literacy-platform) - A financial literacy platform with calculators, educational resources, user account flows, charts, and an Express server.
+## Experience
 
-## Project Index
-### Medical-AI-Projects
-| Project | Description | Topics | Repository |
-|---|---|---|---|
-| Brain Tumor MRI AI System | A medical computer vision project for brain tumor MRI classification, API inference, segmentation experiments, and simple UI prototypes. | medical-ai, deep-learning, computer-vision, tensorflow, keras, pytorch | [GitHub](https://github.com/Rmadanmohamed/brain-tumor-mri-ai-system) |
-| MedScan AI Medical Diagnosis Platform | A Streamlit-based medical AI prototype with modules for medical image analysis, retinal analysis, and disease-risk prediction. | medical-ai, streamlit, tensorflow, opencv, healthcare | [GitHub](https://github.com/Rmadanmohamed/medscan-ai-medical-diagnosis-platform) |
-| Breast Cancer Classification ML | A supervised machine learning notebook that explores breast cancer data, preprocesses features, trains multiple classifiers, and evaluates classification quality. | machine-learning, medical-ai, classification, scikit-learn, xgboost | [GitHub](https://github.com/Rmadanmohamed/breast-cancer-classification-ml) |
-| Diabetes Prediction Machine Learning | A set of notebooks for diabetes outcome prediction using classical ML models and model comparison workflows. | machine-learning, medical-ai, classification, scikit-learn, lightgbm | [GitHub](https://github.com/Rmadanmohamed/diabetes-prediction-ml) |
-| Obesity Risk Prediction ML | A machine learning notebook for obesity classification using train/test CSV files and multiple classical models. | machine-learning, healthcare, classification, scikit-learn | [GitHub](https://github.com/Rmadanmohamed/obesity-risk-prediction-ml) |
+- **AI & Machine Learning Engineer — Rawi Digital Transformation & Services** (June–November 2026, full-time, remote): AI automation, n8n workflows, FastAPI services, REST integrations, RAG and data pipelines.
+- **AI Engineer — Al Osrah Group, Healthcare & Medical Services** (June–July 2026, part-time, on-site): machine-learning and OCR/LLM-assisted internal workflows.
+- **AI Engineer Intern — ReNile Company** (March–May 2026, on-site): data preparation, model optimization and deployment-oriented components.
 
-### Agriculture-AI-Projects
-| Project | Description | Topics | Repository |
-|---|---|---|---|
-| AgriNova Smart Agriculture Dashboard | A full smart-agriculture dashboard workspace combining a Next.js dashboard, API routes, Power BI assets, and Power BI-ready CSV data. | agriculture, nextjs, react, typescript, powerbi, dashboard | [GitHub](https://github.com/Rmadanmohamed/agrinova-smart-agriculture-dashboard) |
-| Smart Agriculture ML Suite | A graduation-project notebook suite for crop recommendation, crop yield prediction, soil nutrient analysis, XAI, and plant disease classification. | agriculture, machine-learning, deep-learning, computer-vision, xai, crop-recommendation | [GitHub](https://github.com/Rmadanmohamed/smart-agriculture-ml-suite) |
+Experience dates and responsibilities follow my November 2026 CV. These descriptions do not disclose proprietary implementations.
 
-### AI-ML-Projects
-| Project | Description | Topics | Repository |
-|---|---|---|---|
-| Molecular Property Prediction with Graph Neural Networks | A graph neural network project for predicting molecular HOMO-LUMO gap values using QM9-style molecular graph data. | gnn, molecular-property-prediction, pytorch, chemistry, qm9 | [GitHub](https://github.com/Rmadanmohamed/molecular-property-prediction-gnn) |
-| Exoplanet Detection Machine Learning | A machine learning project for detecting exoplanets from light-curve data, plus a Gradio light-curve viewer prototype. | machine-learning, astronomy, exoplanet, tensorflow, lightgbm, gradio | [GitHub](https://github.com/Rmadanmohamed/exoplanet-detection-ml) |
-| Baby Food Ingredient Recommendation ML | A recommendation and classification notebook suite for baby food ingredient data using feature selection, classical ML, and tabular deep learning. | recommendation-system, machine-learning, tabnet, pytorch, nutrition | [GitHub](https://github.com/Rmadanmohamed/baby-food-ingredient-recommendation-ml) |
-| Retail Item Recommendation System | A recommender-system notebook using transactional retail data, user-item matrices, cosine similarity, and recommendation evaluation. | recommendation-system, collaborative-filtering, machine-learning, python | [GitHub](https://github.com/Rmadanmohamed/retail-item-recommendation-system) |
-| Information Retrieval and Recommender Systems | A group of information retrieval and recommender-system assignments covering user-item matrices, ranking metrics, and classification examples. | information-retrieval, recommendation-system, machine-learning, python | [GitHub](https://github.com/Rmadanmohamed/information-retrieval-recommender-systems) |
-| Knowledge Based Weather Recommendation System | A knowledge-based system notebook combining weather/country datasets, graph-like knowledge representation, Gradio, and ML classification. | knowledge-based-system, machine-learning, gradio, weather-data | [GitHub](https://github.com/Rmadanmohamed/knowledge-based-weather-recommendation-system) |
-| Quantum Machine Learning Experiments | A set of quantum machine learning notebooks covering quantum kernels, QNN architecture, and quantum convolutional neural networks. | quantum-machine-learning, qiskit, qnn, qcnn, svm | [GitHub](https://github.com/Rmadanmohamed/quantum-machine-learning-experiments) |
+## Selected engineering work
 
-### Data-Science-Projects
-| Project | Description | Topics | Repository |
-|---|---|---|---|
-| Backpack Price Prediction ML | A regression notebook for backpack price prediction using tabular product data and classical machine learning models. | data-science, regression, machine-learning, pricing | [GitHub](https://github.com/Rmadanmohamed/backpack-price-prediction-ml) |
-| Student Performance Analysis | A data science project for analyzing student exam performance and clustering patterns with K-Means. | data-science, education, eda, clustering, kmeans | [GitHub](https://github.com/Rmadanmohamed/student-performance-analysis) |
-| Titanic Survival Prediction ML | A classic Titanic survival prediction notebook with preprocessing, model training, and accuracy evaluation. | data-science, classification, kaggle, scikit-learn | [GitHub](https://github.com/Rmadanmohamed/titanic-survival-prediction-ml) |
-| Agglomerative Clustering Analysis | A clustering notebook using hierarchical clustering, dendrogram visualization, imputation, label encoding, and feature scaling. | data-science, clustering, scikit-learn, hierarchical-clustering | [GitHub](https://github.com/Rmadanmohamed/agglomerative-clustering-analysis) |
+| Project | Focus | Status |
+| --- | --- | --- |
+| [AgriNova dashboard](https://github.com/Rmadanmohamed/agrinova-smart-agriculture-dashboard) | Next.js, TypeScript, agriculture analytics and Power BI assets | Demo/dashboard workspace; sample-data limitations documented |
+| [Brain Tumor MRI AI System](https://github.com/Rmadanmohamed/brain-tumor-mri-ai-system) | TensorFlow/Keras, Gradio, MRI classification research workflows | Educational prototype; saved model loading limitation documented |
+| [Smart Agriculture ML Suite](https://github.com/Rmadanmohamed/smart-agriculture-ml-suite) | Crop and plant-health ML notebooks | Research/educational notebooks |
+| [Hybrid Optimization Algorithms](https://github.com/Rmadanmohamed/hybrid-optimization-algorithms) | Metaheuristic optimization experiments | Research/experimental |
+| [Exoplanet Detection ML](https://github.com/Rmadanmohamed/exoplanet-detection-ml) | Light-curve machine learning | Research/educational |
+| [Molecular Property Prediction GNN](https://github.com/Rmadanmohamed/molecular-property-prediction-gnn) | Graph neural networks, QM9-style data | Research/experimental |
 
-### Optimization-Algorithms
-| Project | Description | Topics | Repository |
-|---|---|---|---|
-| Hybrid Optimization Algorithms | An optimization research/code project combining Hippopotamus Optimization, Secretary Bird Optimization, hierarchical hybrid methods, GA, PSO, and path optimization notebooks. | optimization, metaheuristics, genetic-algorithm, particle-swarm-optimization, python | [GitHub](https://github.com/Rmadanmohamed/hybrid-optimization-algorithms) |
+Other projects are listed in the [repository index](https://github.com/Rmadanmohamed?tab=repositories).
 
-### Full-Stack-Web-Projects
-| Project | Description | Topics | Repository |
-|---|---|---|---|
-| AI Learning Website | A static educational website covering AI models, machine learning, and deep learning topics. | web, html, css, javascript, ai-education | [GitHub](https://github.com/Rmadanmohamed/ai-learning-website) |
+## Research and publications
 
-### Finance-Projects
-| Project | Description | Topics | Repository |
-|---|---|---|---|
-| FinLit Egypt Financial Literacy Platform | A financial literacy platform with calculators, educational resources, user account flows, charts, and an Express server. | finance, financial-literacy, nodejs, express, javascript | [GitHub](https://github.com/Rmadanmohamed/finlit-egypt-financial-literacy-platform) |
+Two publications listed in my CV can be located in publisher records. Publisher pages provide the bibliographic details below; project-specific contribution details beyond co-authorship are not independently established:
 
-### Research-Projects
-| Project | Description | Topics | Repository |
-|---|---|---|---|
-| Robotics Research Paper | A research document archive containing a robotics paper draft. | robotics, research, paper | [GitHub](https://github.com/Rmadanmohamed/robotics-research-paper) |
+1. **“An Edge–Cloud AI–Robotics Framework with Blockchain-Based Validation for Crop Yield Prediction and Plant Health Monitoring.”** *Internet of Things* (Elsevier), volume 39, article 102025 (2026). [Publisher record and DOI](https://doi.org/10.1016/j.iot.2026.102025). Research areas: smart agriculture, edge/cloud AI, robotics and IoT.
+2. **“Hybrid Random Walk-Dijkstra Approach for Efficient Coverage Path Planning in Robotics.”** Springer, *Intelligent Systems, Blockchain, and Communication Technologies* (ISBCom 2025 conference; published online April 2026), pages 381–396. [Publisher record and DOI](https://doi.org/10.1007/978-3-032-15784-3_28). The publisher lists **Ramadan Mohamed as the third author**. Research areas: robotics and path planning.
 
-## Repository Owner
+Related repositories: [AgriNova](https://github.com/Rmadanmohamed/agrinova-smart-agriculture-dashboard), [robotics research document archive](https://github.com/Rmadanmohamed/robotics-research-paper). The document archive alone does not establish publisher acceptance or a reproducible implementation.
 
-- GitHub: [@Rmadanmohamed](https://github.com/Rmadanmohamed)
-- Author: Ramadan Mohamed Hassan
+## Technical focus
 
-## Notes
+- **Languages:** Python, JavaScript/TypeScript, SQL
+- **AI/ML:** PyTorch, TensorFlow/Keras, scikit-learn, OpenCV, Hugging Face Transformers, NLP, computer vision
+- **LLM systems:** RAG, prompt engineering, LangChain, LangGraph
+- **Backend and automation:** FastAPI, REST APIs, n8n, Streamlit
+- **Data:** PostgreSQL, MongoDB, FAISS, Pinecone, Pandas, NumPy
+- **Delivery:** Git/GitHub, Vercel
 
-- Notebook outputs and Colab execution metadata were cleaned in the portfolio copies.
-- Generated dependencies and caches such as `node_modules`, `.next`, virtual environments, and notebook checkpoints were excluded.
-- Large local artifacts are documented in project READMEs when relevant.
+## Education
+
+**B.Sc. Computer Science — Artificial Intelligence Program**, New Mansoura University (September 2022 – June 2026).
+
+## Recognition and training
+
+- AgriNova: first place at the 2026 CSE Projects Exhibition; second place at MansTech Hackathon (2026), per CV.
+- Hybrid optimization project: first place at the 2025 Annual University Projects Exhibition, per CV.
+- NVIDIA training in LLM applications and generative AI.
+- Huawei ICT Academy HCIA AI / HCIP AI; NTI/Huawei 80-hour AI training, per CV.
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/ramadan-mohamed-657686365)
+- [Portfolio repository](https://github.com/Rmadanmohamed/ramadan-ai-portfolio)
+- [GitHub](https://github.com/Rmadanmohamed)
+
+*This portfolio documents project evidence and limitations; it does not assert clinical approval, production readiness, or independently verified benchmark figures.*
