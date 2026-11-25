@@ -27,10 +27,10 @@ Other projects are listed in the [repository index](https://github.com/Rmadanmoh
 
 ## Research and publications
 
-My CV lists two co-authored publications. Bibliographic metadata, DOI, author order and publication links should be cross-checked against publisher records before creating formal citations:
+Two publications listed in my CV can be located in publisher records. Publisher pages provide the bibliographic details below; project-specific contribution details beyond co-authorship are not independently established:
 
-1. **“An Edge–Cloud AI–Robotics Framework with Blockchain-Based Validation for Crop Yield Prediction and Plant Health Monitoring.”** *Internet of Things* (Elsevier), volume 39, article 102025 (2026), as reported in my CV. Research areas: smart agriculture, edge/cloud AI, robotics and IoT.
-2. **“Hybrid Random Walk-Dijkstra Approach for Efficient Coverage Path Planning in Robotics.”** Springer conference proceedings / ISBCOM 2025, as reported in my CV. Research areas: robotics and path planning.
+1. **“An Edge–Cloud AI–Robotics Framework with Blockchain-Based Validation for Crop Yield Prediction and Plant Health Monitoring.”** *Internet of Things* (Elsevier), volume 39, article 102025 (2026). [Publisher record and DOI](https://doi.org/10.1016/j.iot.2026.102025). Research areas: smart agriculture, edge/cloud AI, robotics and IoT.
+2. **“Hybrid Random Walk-Dijkstra Approach for Efficient Coverage Path Planning in Robotics.”** Springer, *Intelligent Systems, Blockchain, and Communication Technologies* (ISBCom 2025 conference; published online April 2026), pages 381–396. [Publisher record and DOI](https://doi.org/10.1007/978-3-032-15784-3_28). The publisher lists **Ramadan Mohamed as the third author**. Research areas: robotics and path planning.
 
 Related repositories: [AgriNova](https://github.com/Rmadanmohamed/agrinova-smart-agriculture-dashboard), [robotics research document archive](https://github.com/Rmadanmohamed/robotics-research-paper). The document archive alone does not establish publisher acceptance or a reproducible implementation.
 
