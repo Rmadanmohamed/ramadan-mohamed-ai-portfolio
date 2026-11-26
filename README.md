@@ -8,7 +8,7 @@
 
 # Ramadan Mohamed Hassan
 
-**AI Engineer | AI Automation | LLM & RAG Systems | Machine Learning**
+**AI Engineer | AI Researcher | AI Automation | LLM & RAG Systems | Machine Learning**
 
 I build AI-enabled services and automation workflows, with interests spanning retrieval-augmented generation, computer vision, data pipelines, robotics, and applied research. This repository is a curated entry point to my work; project maturity and reproducibility vary by repository.
 
@@ -38,7 +38,7 @@ Other projects are listed in the [repository index](https://github.com/Rmadanmoh
 Two publications listed in my CV can be located in publisher records. Publisher pages provide the bibliographic details below; project-specific contribution details beyond co-authorship are not independently established:
 
 1. **“An Edge–Cloud AI–Robotics Framework with Blockchain-Based Validation for Crop Yield Prediction and Plant Health Monitoring.”** *Internet of Things* (Elsevier), volume 39, article 102025 (2026). [Publisher record and DOI](https://doi.org/10.1016/j.iot.2026.102025). Research areas: smart agriculture, edge/cloud AI, robotics and IoT.
-2. **“Hybrid Random Walk-Dijkstra Approach for Efficient Coverage Path Planning in Robotics.”** Springer, *Intelligent Systems, Blockchain, and Communication Technologies* (ISBCom 2025 conference; published online April 2026), pages 381–396. [Publisher record and DOI](https://doi.org/10.1007/978-3-032-15784-3_28). The publisher lists **Ramadan Mohamed as the third author**. Research areas: robotics and path planning.
+2. **“Hybrid Random Walk-Dijkstra Approach for Efficient Coverage Path Planning in Robotics.”** Springer, *Intelligent Systems, Blockchain, and Communication Technologies* (ISBCom 2025 conference; published online April 2026), pages 381–396. [Publisher record and DOI](https://link.springer.com/chapter/10.1007/978-3-032-15784-3_28). The publisher lists **Ramadan Mohamed as the third author**. Research areas: robotics and path planning.
 
 Related repositories: [AgriNova](https://github.com/Rmadanmohamed/agrinova-smart-agriculture-dashboard), [robotics research document archive](https://github.com/Rmadanmohamed/robotics-research-paper). The document archive alone does not establish publisher acceptance or a reproducible implementation.
 
@@ -64,8 +64,14 @@ Related repositories: [AgriNova](https://github.com/Rmadanmohamed/agrinova-smart
 
 ## Connect
 
-- [LinkedIn](https://www.linkedin.com/in/ramadan-mohamed-657686365)
+- [LinkedIn](https://www.linkedin.com/in/ramadan-mohamed-89085a366/)
+- [Live portfolio](https://ramadan-ai-portfolio.vercel.app/)
+- [Email](mailto:ramadanmohameddd3@gmail.com)
 - [Portfolio repository](https://github.com/Rmadanmohamed/ramadan-ai-portfolio)
 - [GitHub](https://github.com/Rmadanmohamed)
 
 *This portfolio documents project evidence and limitations; it does not assert clinical approval, production readiness, or independently verified benchmark figures.*
+
+## Repository usage
+
+This repository is a documentation-only project index, not a runnable application. Browse the linked repositories for source-specific dependencies, configuration, setup, validation and limitations. No local runtime, credentials, model files or automated tests are needed to read the index. Live project availability and performance claims are subject to the individual repositories' evidence.
